@@ -25,7 +25,7 @@ Node.js, inquirer, MYSQL2, console.table
 Please download from https://github.com/nmendez4/mysql-employee-tracker and have VS Code installed along with the packages above to use this application
 
 ## Screenshots
-![terminal](employee-tracker.png)
+![terminal](/assets/screenshot/employee-tracker.png)
 
 ## Built With
 * Node.js
